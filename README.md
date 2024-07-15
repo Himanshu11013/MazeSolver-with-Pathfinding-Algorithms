@@ -32,12 +32,16 @@ To run the MazeSolver application, follow these steps:
 3. Run the Application:
 Execute the compiled binary to launch the MazeSolver application.
 ### Usage
-Upon launching the application, you will be prompted to choose one of the following algorithms:
-
-1: Dijkstra - Finds the shortest path using uniform edge weights.
-2: BFS (Breadth-First Search) - Explores all neighbors at the present depth level before moving on to nodes at the next depth level.
-3: DFS (Depth-First Search) - Explores as far as possible along each branch before backtracking.
-4: A (A-star)* - Uses a heuristic to estimate the cost of the shortest path from a node to the target node.
+   -Create an input file named input.txt in the root directory of the project. The file should contain a 20x20 grid of integers, where 0 represents a wall and 1 represents an open path.
+   
+   -Run the program:
+   
+   -Choose the algorithm to visualize by entering the corresponding number:
+   
+   1. for Dijkstra
+   2. for BFS
+   3. for DFS
+   4. for A*
 ### Algorithms
 Dijkstra's Algorithm
 Dijkstra's algorithm finds the shortest paths from a source node to all other nodes in a graph with non-negative edge weights. It uses a priority queue to always expand the shortest known path.
