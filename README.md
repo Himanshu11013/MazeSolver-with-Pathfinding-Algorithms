@@ -60,8 +60,8 @@ The MazeSolver application provides a visual representation of the maze creation
 
 ## screenshots
 ## Initial Maze Setup
-![initial](https://github.com/user-attachments/assets/abe5a8ba-0f08-43f3-934b-6d7100b8b7b4)
+![initial](https://github.com/user-attachments/assets/cb610073-db94-44f2-97b4-e71e6744f1ac)
 
 ## Final Path Highlighted
-![Final](https://github.com/user-attachments/assets/911dfaac-ce6e-4674-bffa-19c8a5e732e1)
+![Final](https://github.com/user-attachments/assets/9961cb46-fdc2-4d9d-a126-002b96539c55)
 
