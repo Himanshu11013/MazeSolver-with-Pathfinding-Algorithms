@@ -55,8 +55,8 @@ Visualization
 The MazeSolver application provides a visual representation of the maze creation, editing, and pathfinding process. Walls, start, and end points are graphically represented using SFML graphics, allowing for an intuitive understanding of how algorithms navigate through the maze.
 
 ## screenshots
-![Initial Maze Setup](initial.jpeg)
+![Initial Maze Setup](initial.png)
 *Initial Maze Setup*
 
-![Final Path Highlighted](Final.jpeg)
+![Final Path Highlighted](Final.png)
 *Final Path Highlighted*
